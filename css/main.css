@@ -1,0 +1,32 @@
+.card{ background-color:  #FF4F52;
+  width: 263px;
+  height: 370px;
+  border-radius: 10px;
+  text-align: center;
+  }
+  .card-title {
+  color: white;
+  }
+  .card-text {color: white;}
+
+  .card1{ background-color: #262D33;
+    width: 263px;
+    height: 370px;
+    border-radius: 10px;
+    text-align: center;
+    }
+    .card-title {
+    color: white;
+    }
+    .card-text {color: white;}
+
+    .card2{ background-color: #3DC47E;
+      width: 263px;
+      height: 370px;
+      border-radius: 10px;
+      text-align: center;
+      }
+      .card-title {
+      color: white;
+      }
+      .card-text {color: white;}
